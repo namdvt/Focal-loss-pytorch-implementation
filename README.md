@@ -1,6 +1,6 @@
 ## Project Title
 
-An Pytorch implementation of the focal loss which proposed in: 
+An Pytorch implementation of the focal loss function which was proposed in: 
 "Focal Loss for Dense Object Detection", https://arxiv.org/abs/1708.02002
 ## Example
 
