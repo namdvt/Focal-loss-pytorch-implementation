@@ -5,7 +5,7 @@ An Pytorch implementation of the focal loss function which was proposed in:
 ## Example
 
 Training
-```
+```python
 import function as F
 
 optimizer.zero_grad()
